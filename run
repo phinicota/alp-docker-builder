@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run -it alp-base-dev bash
